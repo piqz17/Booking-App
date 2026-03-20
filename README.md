@@ -11,7 +11,7 @@ The Facility Management Booking App is a Power Apps Canvas application combined 
 
 ## How It Works
 1. **User Registration/Login**: Users can register and log in to their accounts to access the booking features.
-2. **Facility Selection**: Users select the facility they wish to book, along with the date and time.
+2. **Facility Selection**: Users select the meeting or event they wish to book, along with the date and time.
 3. **Confirmation**: Once a booking is made, users receive a confirmation message and an email notification.
 4. **Cancellation and Modifications**: Users can easily cancel or modify their bookings through the app interface.
 
